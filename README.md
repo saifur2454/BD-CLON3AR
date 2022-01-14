@@ -24,6 +24,6 @@ $ python2 BD-CLON3AR.py
 
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/abbu.2454)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/abbu.2454)
-[![Github](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/saifur2454)
+[![Github](https://img.shields.io/badge/Github-saifur2454green?style=for-the-badge&logo=github)](https://github.com/saifur2454)
 
 
